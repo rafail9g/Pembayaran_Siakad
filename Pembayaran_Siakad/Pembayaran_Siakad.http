@@ -1,0 +1,6 @@
+@Pembayaran_Siakad_HostAddress = http://localhost:5092
+
+GET {{Pembayaran_Siakad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
