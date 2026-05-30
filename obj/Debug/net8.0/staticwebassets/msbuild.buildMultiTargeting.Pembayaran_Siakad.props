@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Pembayaran_Siakad.props" />
-</Project>
